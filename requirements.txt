@@ -1,0 +1,4 @@
+python-decouple
+GoogleBard
+browser-cookie3
+dbus-python
